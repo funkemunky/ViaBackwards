@@ -6,7 +6,7 @@ rootProject.name = "viabackwards-parent"
 dependencyResolutionManagement {
     repositories {
         maven("https://repo.viaversion.com")
-        maven("https://papermc.io/repo/repository/maven-public/")
+        maven("https://papermc.io/repo/repository/maven-snapshots/")
         maven("https://oss.sonatype.org/content/repositories/snapshots/")
         maven("https://nexus.velocitypowered.com/repository/velocity-artifacts-snapshots/")
         maven("https://repo.spongepowered.org/maven")
